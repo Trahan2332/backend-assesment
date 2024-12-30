@@ -111,9 +111,6 @@ If you feel uncomfortable working with the provided **NestJS** template, you are
 
    - Include a brief description of your API design and thought process in a DOCUMENTATION.md file.
 
-3. Testing:
-   - Write tests to validate your APIs and ensure correctness.
-
 <br />
 
 # Submission
